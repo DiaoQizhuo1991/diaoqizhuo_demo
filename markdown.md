@@ -22,7 +22,7 @@
 
 `Hello world!`
 
-```
+```c++
 int sum2 = 0;
 for (int val = 1; val <= 10; val++)
 {
